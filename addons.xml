@@ -4,7 +4,7 @@
        version="1.0"
        provider-name="Hacker0x00">
     <requires>
-        <import addon="xbmc.python" version="1.0.0"/>
+        <import addon="xbmc.python" version="2.1.0"/>
     </requires>
     <extension point="xbmc.addon.repository">
         <info>repository.hacker0x00</info>
